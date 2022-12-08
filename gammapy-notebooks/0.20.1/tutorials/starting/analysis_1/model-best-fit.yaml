@@ -14,7 +14,6 @@ components:
         -   name: reference
             value: 1.0
             unit: TeV
-            frozen: true
     spatial:
         type: PointSpatialModel
         frame: icrs
@@ -38,9 +37,7 @@ components:
             error: 0.02347308106260916
         -   name: tilt
             value: 0.0
-            frozen: true
         -   name: reference
             value: 1.0
             unit: TeV
-            frozen: true
 covariance: model-best-fit_covariance.dat

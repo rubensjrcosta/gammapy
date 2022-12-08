@@ -1,0 +1,21 @@
+components:
+-   name: my-source
+    type: SkyModel
+    spectral:
+        type: MyCustomSpectralModel
+        parameters:
+        -   name: amplitude
+            value: 1.0e-12
+            unit: cm-2 s-1 TeV-1
+        -   name: index
+            value: 2.0
+        -   name: reference
+            value: 1.0
+            unit: TeV
+        -   name: mean
+            value: 3.0
+            unit: TeV
+        -   name: width
+            value: 0.1
+            unit: TeV
+covariance: my-custom-models_covariance.dat
