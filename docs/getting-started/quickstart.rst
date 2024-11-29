@@ -19,7 +19,7 @@ execute the following commands in the terminal:
 
 .. note::
 
-    To avoid some installation issues, sherpa is not part of the environment file provided. You can nevertheless
+    To avoid some installation issues, sherpa is not part of the environment file provided in version 1.3. You can nevertheless
     install `sherpa` in your environment using `python -m pip install sherpa`.
 
 
