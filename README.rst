@@ -88,6 +88,5 @@ Status shields
     :target: https://github.com/gammapy/gammapy/actions
     :alt: GitHub actions CI
 
-* .. image:: https://codecov.io/gh/gammapy/gammapy/branch/main/graph/badge.svg?style=flat
+* .. image:: https://codecov.io/gh/gammapy/gammapy/graph/badge.svg?token=OUjhqZUZzq 
     :target: https://codecov.io/gh/gammapy/gammapy
-
